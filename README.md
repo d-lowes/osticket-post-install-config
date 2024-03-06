@@ -83,4 +83,4 @@ After this tutorial all accounts will be setup to create a simulated help desk e
 
 Congratulations! You have setup a simulated help desk environment. By following these steps, you will have configured the essential components of your osTicket system to align with your organization's support structure and workflow. This setup ensures that tickets are handled efficiently, with clear roles, responsibilities, and escalation paths. Remember, osTicket offers extensive customization options, so feel free to explore and adjust settings as necessary to best meet your needs.
 
-I'll guide you through the next steps to [create common help desk tickets](https://github.com/d-lowes/osticket-ticket-lifecycle)!
+Follow the next steps to [create common help desk tickets](https://github.com/d-lowes/osticket-ticket-lifecycle)!
