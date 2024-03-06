@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. This is great practice for aspiring Help Desk professionals to triage and solve tickets.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. This is great practice for aspiring Help Desk professionals to triage and solve tickets. After this tutorial all accounts will be setup to create a simulated help desk environment!<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -30,3 +30,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+Congratulations! You have setup a simulated help desk environment! I'll guide you through the next steps to [create common help desk tickets](https://github.com/d-lowes/osticket-post-install-config)!
