@@ -30,4 +30,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-Congratulations! You have setup a simulated help desk environment! I'll guide you through the next steps to [create common help desk tickets](https://github.com/d-lowes/osticket-ticket-lifecycle)!
+Congratulations! You have setup a simulated help desk environment. I'll guide you through the next steps to [create common help desk tickets](https://github.com/d-lowes/osticket-ticket-lifecycle)!
